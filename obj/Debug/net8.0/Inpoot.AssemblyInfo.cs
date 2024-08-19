@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inpoot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de021eae3859f4c4e2267c6596ffdde45ebe4fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+922e218f778a380b3cae38aef9d51263868dc8cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inpoot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inpoot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
